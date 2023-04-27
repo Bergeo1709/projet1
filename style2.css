@@ -1,0 +1,427 @@
+.ligne {
+    background-color: black;
+    padding: 2px;
+    font-size: 2px;
+}
+.tache{
+    color: black;
+    font-size: 5%;
+}
+
+.bande1{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 30px;
+}
+.bande2{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    list-style-type: none;
+    float: right;
+    margin-right: 1%;
+    text-decoration: none;
+    font-size: 25px;
+}
+.ds{
+    text-decoration: none;
+}
+.titre{
+    background-color: aliceblue;
+    font-family:Arial,Helvetica,sans-serif; 
+    text-align: right;
+    padding: 47px;
+    height: 59px;
+    font-size: 12px;   
+}
+.mots1{
+    color: orangered;
+    font-family:Arial,Helvetica,sans-serif; 
+    font-size: 152%;
+    text-align: center;
+    width: 15%;
+    height:-10%;
+    float: left;
+    margin-left: 27%;
+    margin-top: -0%;
+}
+.image1{
+    width: 13%; 
+    height: 109px;
+}
+.mots2{
+    color: lightslategrey;
+    font-family:Arial,Helvetica,sans-serif; 
+    font-size: 65%;
+    text-align: center;
+    width: 15%;
+    height: 6%;
+    float: right;
+    margin-top: 0%;
+    margin-right: 30%;
+   
+}
+.titre2{
+    background-color: gold;
+    color: white;
+    font-family:Arial,Helvetica,sans-serif; 
+    text-align: center;
+    padding-top: 2%;
+    padding: 15px;
+    width: 98%;
+    height: 50px;
+    font-size: 12px;  
+}
+.button1{
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    width: 15%;
+    height: 12px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 1%;
+    margin-left:13%;
+}
+.button2{
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    width: 12%;
+    height: 12px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button3{
+    background-color: rgb(2, 2, 46);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    width: 12%;
+    height: 12px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button4{
+    background-color: orangered;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    width: 12%;
+    height: 12px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button5{
+    background-color: orange;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    width: 12%;
+    height: 12px;
+    font-weight: bold;
+    display: inline-block;
+ 
+}
+
+.menu{
+    line-height: 25px;
+    height:569px;
+    width:230px;
+    float: left;
+    text-align: left;
+    padding: 6px;
+    margin-left: 6%;
+    margin-top: 1%;
+}
+.dropdown{
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+    width: 40%;
+    height: 26px;
+    font-weight: bold;
+}
+.corps{
+    width: 300px;
+    float: center;
+    padding: 15px;
+    text-align: left;
+}
+.input{
+    background-color: white;
+    width: 55%;
+    height: 15px;
+    padding: 1%;
+    border-radius: 5px;
+    margin-left: -6%;
+    
+}
+.input1{
+    background-color: white;
+    width: 30%;
+    height: 15px;
+    padding: 1%;
+    border-radius: 5px;
+    margin-left: -6%;
+    margin-top: 2%;
+    
+}
+.button{
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+    width: 24%;
+    height: 26px;
+    font-weight: bold;
+}
+.button0{
+    background-color: yellow;
+    color: white;
+    width: 59%;
+    height: 34px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: -6%;
+    margin-top: 7%;
+}
+.tab{
+    margin-left: -5%;
+}
+.tab1{   
+    margin-left: -5%;
+    margin-top: -5%;
+}
+#subscriptionform{
+    width: 300px;
+    padding: 2%;
+    background-color: white;
+    margin: auto;
+    font-size: 14px;
+    text-align: center;
+}
+.deroule{
+    line-height: 25px;
+    height:569px;
+    width:522px;
+    float: left;
+    text-align: left;
+    padding: 4px;
+    margin-top: -9%;
+    margin-left: 11%
+
+}
+.image3{
+    width:100%;
+    height:210px;
+}
+.menu,.button1{
+    display: inline-block;
+    margin-left: 12%;
+}
+.deroule,.menu{
+    display: inline-block;
+    margin-right: -1%;
+}
+.image2{
+    width:10%; 
+    height:125px;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.select{
+    color: rgb(255, 255, 0);
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+.new{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10%;
+    float: left;
+}
+.by{
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 4%;
+    display: inline-block;
+}
+.am1{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.am2{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.am3{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.am4{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.am5{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.ptt{
+    float: left;
+    padding: 4px;
+    margin-top: -7%;
+    margin-left: -7%;
+}
+.txt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-top: -4%;
+}
+.in{
+    color: aliceblue;
+    margin-top: -3%;
+    border-radius: 6%;
+}
+.im{
+    width: 5%;
+    height: 12px;
+}
+/*gestion de la responsivite*/
+
+/*smartphone*/
+@media screen and (min-width:320px) and (max-width:768px){
+
+.bande1{
+    text-align: left;
+    margin-left: -15%;
+    margin-top: -70%;
+    font-size: 90%;
+}
+.bande2{
+   display: none;
+}.ligne{
+    font-size: 2px;
+    margin-top: -2%;
+}
+.ligne {
+    background-color: black;
+    padding: 2px;
+    width: 73%;
+}
+.titre2{
+    width: 65%;
+    height: 9px;
+    font-size: 39%;
+    margin-top: 1%;
+}
+.mots1{
+    font-size: 79%;
+    text-align: center;
+    width: 21%;
+    height: 60px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 0%;
+}
+.mots2{
+    text-align: center;
+    font-size: 35%;
+    width: 29%;
+    height: 60px;
+    margin-right: 27%;
+   margin-top: -0%;
+   float: right;
+   
+}
+.image1{
+    width: 21%; 
+    height: 59px;
+}
+.button1,.button2,.button3,.button4,.button5{
+    width: 11%;
+    font-size: 5px;
+    margin: -2%;
+    margin-left: 1%;
+    padding-top: -1%;
+    height: 5px;
+}
+.deroule{
+    width: 73%;
+    text-align: left;
+    margin-top: 3%;
+    margin-left: -1%;
+    font-size: 11px;
+}
+.image3{
+    width:100%;
+    height:120px;
+}
+.image2,.tab,.corps,.dropdown,.menu{
+    display: none;
+}
+.by{
+    
+    text-align: center;
+    font-size: 9px;
+ }
+ .ptt{
+    float: left;
+    margin-top: -11%;
+    margin-left: -7%;
+}
+.im{
+    width: 11%;
+    height: 10px;
+}
+
+/*tablette*/
+@media screen and (min-width:769px) and (max-width:992px){
+.bande1{
+    font-display: none;
+}
+.bande2{
+    display: none;
+}
+.mots1{
+    background-color: blue;
+    margin-left: 24%;
+    margin-top: -2%;
+}
+.button1,.button2,.button3,.button4,.button5{
+   display: none;
+}
+.mots2{
+    display: none;
+}
+}
